@@ -47,7 +47,7 @@ class FerrisWheel(Attraction):
 
 ### **Project: Theme Park Adventure System**
 
-Your task is to design a **Theme Park Adventure System** using OOP principles. The system will manage attractions, staff, and visitors, using encapsulation and polymorphism effectively.
+Your task is to design a **Theme Park Adventure System** using OOP principles. The system will manage attractions, staff, and visitors, usClassing encapsulation and polymorphism effectively.
 
 ---
 
